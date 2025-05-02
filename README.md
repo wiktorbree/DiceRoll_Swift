@@ -4,7 +4,7 @@ A very simple iOS app built with SwiftUI that lets you roll a dice with the tap 
 
 ## 📱 Preview
 
-![diceroll](https://github.com/user-attachments/assets/3e4f3b8c-ea78-4501-ad0b-096f0c270ec7)
+<img src="[/images/output/video1.gif](https://github.com/user-attachments/assets/3e4f3b8c-ea78-4501-ad0b-096f0c270ec7)" width="250" height="250"/>
 
 
 ## ✨ Features
